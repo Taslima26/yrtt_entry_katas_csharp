@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{2A9C049B-AD32-4A35-9404-EADC7C12B67D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tasks.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tasks/Exercise001.cs">
+    <Files>
+      <File FileName="Tasks/Exercise001.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="yrtt_entry_katas_csharp" expanded="True">
+            <Node name="Tasks" expanded="True">
+              <Node name="Exercise001.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="yrtt_entry_katas_csharp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
